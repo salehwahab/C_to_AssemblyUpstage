@@ -44,6 +44,6 @@ A Tool for Converting C to Assembly using Solar LLM
 4. **Output:** The assembly file is saved in `.S` format.
 5. **Simulation:** The tool simulates the output of the assembly code.
 
-## Example
+## Flowchart comparing the general vs the LLM based C to Assembly
 
 <img src="https://github.com/salehwahab/C_to_AssemblyUpstage/blob/main/CtoA.png" alt="Solar LLM Workflow" width="400">
