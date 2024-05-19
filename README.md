@@ -46,4 +46,4 @@ A Tool for Converting C to Assembly using Solar LLM
 
 ## Example
 
-![Solar LLM Workflow](https://github.com/username/repository/raw/main/image.png)
+![Solar LLM Workflow](https://github.com/salehwahab/C_to_AssemblyUpstage/blob/main/CtoA.png)
