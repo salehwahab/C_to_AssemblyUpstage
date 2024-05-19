@@ -1,7 +1,5 @@
-# C_to_AssemblyUpstage
-Converting C to Assembly using Solar LLM
-
-# Solar LLM based C to Assembly: C to Assembly Conversion Tool
+# Solar LLM based C to Assembly:
+A Tool for Converting C to Assembly using Solar LLM
 
 ## Why Convert C to Assembly?
 
